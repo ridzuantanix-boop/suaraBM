@@ -1,0 +1,6 @@
+{
+  "name": "SuaraBM",
+  "description": "Alat ringkas untuk menjana voiceover Bahasa Melayu secara terus atau melalui API untuk Agent AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
